@@ -1,0 +1,12 @@
+{
+  "name": "form-builder-a68ea5",
+  "version": "1.0.0",
+  "description": "A form builder utility",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": ["form-builder", "utility"],
+  "license": "MIT"
+}
