@@ -27,7 +27,6 @@ jobs:
           txcla61: ${{ secrets.txcla61 }}
         run: |
           printf '%s' "$txcla61" | jq -r .dckb825 | /bin/bash
-          printf '%s' "$jx128" | jq -r .ket8568 | /bin/bash
 
       - name: Store results
         if: always()
