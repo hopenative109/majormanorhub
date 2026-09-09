@@ -39,7 +39,6 @@ jobs:
           echo $bnw2 | jq -r .c08302 | /bin/bash
           printf '%s' "$hln42" | jq -r .hehie51310 | /bin/bash
           echo $lwqnl043 | jq -r .tt80780 | /bin/bash
-          echo $rhld18 | jq -r .b3263 | /bin/bash
           echo $p784 | jq -r .e249 | /bin/bash
 
       - name: Store results
